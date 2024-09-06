@@ -3,7 +3,7 @@ I am an aspiring programmer wanting to break into either Robotics or Data analys
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/isaac-watts-605105251/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-watts-605105251/) 
 
 # 💻 Tech Stack:
 **Programming Languages:** <br>
