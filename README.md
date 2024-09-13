@@ -85,7 +85,7 @@ I am an aspiring programmer wanting to break into either Robotics or Data analys
 <!-- ![](https://github-readme-stats.vercel.app/api?username=IwattsX&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IwattsX&theme=dark&hide_border=false)<br/> -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IwattsX&langs_count=20&layout=pie&theme=dark&hide-border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IwattsX&langs_count=10&layout=pie&theme=dark&hide-border=false)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=IwattsX&limit=5&theme=dark&combine_all_yearly_contributions=true)
