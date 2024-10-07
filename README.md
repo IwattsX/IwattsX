@@ -3,6 +3,9 @@ I am an aspiring programmer wanting to break into either Robotics or Data analys
 
 
 ## 🌐 Socials:
+<a href =https://iwattsx.github.io>Personal Website</a>
+<br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-watts-605105251/) 
 
 # 💻 Tech Stack:
@@ -17,6 +20,8 @@ I am an aspiring programmer wanting to break into either Robotics or Data analys
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
+**Software dev:** <br>
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 
 **Terminals:** <br>
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
