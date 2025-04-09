@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an aspiring programmer wanting to break into either Robotics or Data analysis. <br>I'm currently learning Android Development and taking a Data Science course at college. Currently a Senior in college expecting to graduate May 2025 with a Bachelor's in Computer Science and Mathematics.
+I’m an aspiring programmer aiming to break into Robotics or Data Analysis. <br> Currently a Senior in college expecting to graduate May 2025 with a Bachelor's in Computer Science and Mathematics.
 
 
 ## 🌐 Socials:
@@ -20,6 +20,7 @@ I am an aspiring programmer wanting to break into either Robotics or Data analys
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
+
 **Software dev:** <br>
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 
@@ -29,6 +30,7 @@ I am an aspiring programmer wanting to break into either Robotics or Data analys
 
 
 **Data Science & Machine Learning** <br>
+<img src="./tableau_logo.svg" alt="Tableau" width="150">
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
@@ -38,10 +40,9 @@ I am an aspiring programmer wanting to break into either Robotics or Data analys
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)  
 
-
-**Robotics:** (ROSPY, ROSCPP, RCLPY, RCLCPP)<br>
+**Robotics:** <br>
 ![ROS2](https://img.shields.io/badge/ROS2-Humble-brightgreen)  
-![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
+![ROS1](https://img.shields.io/badge/ROS1-Noetic-blue)
 
 
 **Mobile Development**: <br>
@@ -54,22 +55,6 @@ I am an aspiring programmer wanting to break into either Robotics or Data analys
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-
-<!-- **Web Development & APIs** <br> 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) -->
 
 
 **Documentation & Writing (Overleaf)** <br>
@@ -97,5 +82,8 @@ I am an aspiring programmer wanting to break into either Robotics or Data analys
 
 ---
 [![](https://visitcount.itsvg.in/api?id=IwattsX&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=IwattsX&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
