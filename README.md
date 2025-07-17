@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m an aspiring programmer aiming to break into Robotics or Data Analysis. <br> Currently a Senior in college expecting to graduate May 2025 with a Bachelor's in Computer Science and Mathematics.
+I’m an aspiring programmer aiming to break into Robotics or Data Analysis.
 
 
 ## 🌐 Socials:
