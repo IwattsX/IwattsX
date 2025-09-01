@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m an aspiring programmer aiming to break into Robotics or Data Analysis.
+My name is Isaac Watts, a Virginia State University graduate with a BS in Computer Science and Mathematics. Furthermore, I aim to break into Software Engineering or data analysis. 
 
 
 ## 🌐 Socials:
